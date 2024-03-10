@@ -1,1 +1,2 @@
-
+The memory test consists of 3 rounds; in each round a grid of different coloured shapes is displayed on the screen for 20 seconds. Then it disappears and the user's memory is tested with questions on the positions, colours, types of shapes. The score for each round is recorded and a performance reflection question is asked at the end.
+To run the test, run the 3 cells of code sequentially. The privacy disclaimer should be displayed first, and then users may begin the test.
