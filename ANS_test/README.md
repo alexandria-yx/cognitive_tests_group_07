@@ -1,1 +1,1 @@
-
+The Approximate Number system test evaluates the user's ability to estimate quantities without relying counting. The test consists of 50 questions. Each question shows an image with two circles with a different number of dots. This image is shown  for 0.75 seconds and then given response time of 3 seconds and a 1.5 second gap in between questions. 
