@@ -5,3 +5,4 @@ Since v1 of this memory test, the following changes have been made:
 2. Fewer questions to ensure that the test can be completed in roughly 3 minutes
 3. Added reference photo/key for the shapes and their spellings to aid users in answering the questions correctly
 4. Display message to tell users if they answered correctly or incorrectly
+5. Separate notebook to hide all the code from the user to improve interface (the code is contained in 'Memory test v2.ipynb, users should run the test from 'Outside python test.ipynb')
