@@ -1,4 +1,4 @@
 This is a test to assess your accuracy and speed in arithmecy. There are 14 questions which will increase with difficulty as you progress. The numbers will appear on the screen one by one, in 2.5 second intervals, and then an answer box will pop up. Type your answer into the box and press enter to move on to the next question. Perform the calculations sequentially, do not follow the order of operations. E.g., 2 + 3 x 6 ÷ 2 = 18. After the test, you will be given your score and average time taken to answer each question. Lastly, it will ask you how you found the test, click on either the 'hard', 'medium' or 'easy' button. Run the kernel to begin the test. A privacy disclaimer should display first, then it will ask for an anonymised user ID, and then you should follow the instructions to continue. Best of luck. The following changes were made to the old v1 of this test to make the new v2 of this test:
 
-1) Messages were switched to HTML format to improve user interface.
-   
+1) Messages were switched to HTML format to improve user interface and readability. 
+2) A user input was added that asks the user for their gender. 
